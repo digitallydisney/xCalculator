@@ -1,4 +1,4 @@
-# calculator
+# xCalculator
 
 Calculator written in Flutter using Dart Lang
 
